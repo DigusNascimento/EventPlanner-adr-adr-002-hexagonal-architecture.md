@@ -1,0 +1,1 @@
+# EventPlanner-adr-adr-002-hexagonal-architecture.md
